@@ -20,4 +20,4 @@ To run Backend application .
 
     Link for Application download - https://github.com/lakshanmaduwantha/Request-Application-Backend
 
-    Postman API Link - https://api.postman.com/collections/21412370-61822fd9-736c-46bf-97fb-5ba20eee8dd0?access_key=PMAT-01J0ZK7MWGFB6TPA8THF7CN19C
+    Postman API Link - https://elements.getpostman.com/redirect?entityId=28174529-1456af5b-6723-43aa-91fc-517f396cd06b&entityType=collection
